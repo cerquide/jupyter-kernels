@@ -23,3 +23,10 @@ vi krn_new/requirements.txt  # Remove or include packages at your will
 vi krn_new/make.sh           # Add additional commands required to install your kernel (usually empty file)
 ./make.sh krn_new
 ```
+
+In case you want to share this kernel with others do 
+```
+git add krn_new
+git commit -m "Added kernel krn_new"
+git push
+```
