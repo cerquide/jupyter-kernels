@@ -1,11 +1,10 @@
-tensorflow
 scipy
 matplotlib
 scikit-learn
 pandas
 opencv-python
-keras
+cmdstanpy
+pymc3
 statsmodels
-fastparquet
-texttable
-latextable
+pyro-ppl
+seaborn
