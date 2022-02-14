@@ -6,6 +6,7 @@ git clone  git@github.com:cerquide/jupyter-kernels.git
 cd jupyter-kernels
 ./make.sh tf
 ./make.sh torch
+./make.sh bayes
 ```
 
 After that, kernels tf and torch will be available in your jupyter lab
